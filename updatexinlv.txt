@@ -1,5 +1,5 @@
 {
     "verCode": "1",
     "verName": "1.1.20130605",
-    "updateUrl":"http://ctrip.csdn.net/upload/xuxiaohua605290437369226.apk"
+    "updateUrl":"http://xuxiang.github.com/xcxinlv1.0.apk"
 }
